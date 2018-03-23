@@ -53,3 +53,8 @@ Feature tested a scenario where there are no bikes to release.
 Written RSpec test to meet that requirement, and then passed it.
 
 We use () bracket braces in RSpec if we want it to check the return value, whereas the {} curly braces keep track of what happens while we evaluate and will specify any side effects as they occur.
+
+
+#### Challenge 13: Limiting capacity
+
+Guard conditions are lines of code that usually uses the `return` function at the top of a method. Combining this with an `if` or `unless` statement, we can quit the method script early!  
