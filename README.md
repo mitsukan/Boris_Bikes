@@ -42,5 +42,14 @@ We then went through the process of TDD to hammer in the concept while we were w
 5. Once we have matching errors, we can now go into the code and fix BOTH the errors that were established.
 6. PASS THOSE TESTS!
 
-Once those tests have been passed, we can then move onto the next step. 
+Once those tests have been passed, we can then move onto the next step.
 
+
+### Day 5 Jihin and Marwa
+
+#### Challenge 12: Raising exceptions
+
+Feature tested a scenario where there are no bikes to release.
+Written RSpec test to meet that requirement, and then passed it.
+
+We use () bracket braces in RSpec if we want it to check the return value, whereas the {} curly braces keep track of what happens while we evaluate and will specify any side effects as they occur.
